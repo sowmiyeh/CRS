@@ -10,5 +10,5 @@
 >
 >Framework  : BootStrap
 
-###Imported PHP Mailer for sending and receiving mails
+### Imported PHP Mailer for sending and receiving mails
 https://github.com/PHPMailer/PHPMailer
